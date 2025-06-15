@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a sophomore at Augustana College, majoring in Data Science<br><br>I'm currently working on a Code to Code Search Engine<br><br>I'm a huge basketball fan (My whole life)<br><br>I binge watch Naruto
+I’m a sophomore at Augustana College 🎓 majoring in Data Science 📊. Currently, I’m working on building a Code-to-Code Search Engine 💻🔎, combining my passion for technology and problem-solving. Outside of academics, I’m a lifelong basketball fan 🏀 and love binge-watching Naruto 🍥🎥 in my free time.
 
 
 ## 🌐 Socials:
